@@ -1,0 +1,16 @@
+{
+  "versions": [
+    {
+      "id": "v2.0",
+      "label": "v2.0",
+      "released": "2026-09-15",
+      "apps": ["crm", "sales", "inventory", "accounting"]
+    },
+    {
+      "id": "v1.1",
+      "label": "v1.1",
+      "released": "2026-05-02",
+      "apps": ["crm", "sales"]
+    }
+  ]
+}
