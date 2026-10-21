@@ -1,7 +1,7 @@
 {
   "versions": [
     {
-      "id": "v1.0",
+      "id": "1.0",
       "label": "v1.0",
       "released": "2026-10-21",
       "apps": ["accounting", "expenses", "crm", "sales", "point-of-sale", "inventory", "manufacturing", "purchase", "maintenance", "quality", "employees", "time-off", "payroll", "recruitment", "attendances", "fleet", "surveys", "project", "documents"]
