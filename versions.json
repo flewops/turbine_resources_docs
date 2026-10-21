@@ -4,7 +4,7 @@
       "id": "1.0",
       "label": "1.0",
       "released": "2026-10-21",
-      "apps": ["accounting", "GST","expenses", "crm", "sales", "point-of-sale", "inventory", "manufacturing", "purchase", "maintenance", "quality", "employees", "time-off", "payroll", "recruitment", "attendances", "fleet", "surveys", "project", "documents"]
+      "apps": ["accounting", "gst","expenses", "crm", "sales", "point-of-sale", "inventory", "manufacturing", "purchase", "maintenance", "quality", "employees", "time-off", "payroll", "recruitment", "attendances", "fleet", "surveys", "project", "documents"]
     }
   ]
 }
